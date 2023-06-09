@@ -2,14 +2,14 @@
 
 **Example: dreamlike-photoreal-2.0**
 
-![alt text](docs/dreamlike-photoreal-2.0.png)
+![dreamlike-photoreal-2.0](docs/dreamlike-photoreal-2.0.png)
 
 
 **Example: dreamlike-anime-1.0**
 
-![alt text](docs/dreamlike-anime-1.0.png)
+![dreamlike-anime-1.0](docs/dreamlike-anime-1.0.png)
 
 
 **Example: dreamlike-diffusion-1.0**
 
-![alt text](docs/dreamlike-diffusion-1.0.png)
+![dreamlike-diffusion-1.0](docs/dreamlike-diffusion-1.0.png)
