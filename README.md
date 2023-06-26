@@ -1,4 +1,4 @@
-# Ai_IMG_GEN [Link to colab](https://colab.research.google.com/drive/1wrQ9QLauehj8DjGYOCQld-bYJ_Uxwj0A?usp=sharing)
+# Ai_GEN [Link to colab](https://colab.research.google.com/drive/1wrQ9QLauehj8DjGYOCQld-bYJ_Uxwj0A?usp=sharing)
 
 **Example: dreamlike-photoreal-2.0**
 
