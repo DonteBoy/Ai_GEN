@@ -1,6 +1,7 @@
-#Найден критический баг
-#Программа временно не работает
-#Вернитесь завтра
+# Найден критический баг
+
+# Программа временно не работает
+# Вернитесь завтра
 
 # Ai_GEN [Link to colab](https://colab.research.google.com/drive/1zmf89ej3rRajmIN3rAtu66R2Nhzk-COG?usp=sharing)
 ![IMG](docs/IMG/IMG.png)
