@@ -1,5 +1,9 @@
 # Ai_GEN [Link to colab](https://colab.research.google.com/drive/1wrQ9QLauehj8DjGYOCQld-bYJ_Uxwj0A?usp=sharing)
 
+![IMG](docs/IMG/IMG.png)
+![VID](docs/IMG/VID.png)
+
+
 **Example: dreamlike-photoreal-2.0**
 
 ![dreamlike-photoreal-2.0](docs/dreamlike-photoreal-2.0.jpg)
