@@ -1,5 +1,4 @@
-# Ai_GEN [Link to colab](https://colab.research.google.com/drive/1wrQ9QLauehj8DjGYOCQld-bYJ_Uxwj0A?usp=sharing)
-
+# Ai_GEN [Link to colab](https://colab.research.google.com/drive/1zmf89ej3rRajmIN3rAtu66R2Nhzk-COG?usp=sharing)
 ![IMG](docs/IMG/IMG.png)
 ![VID](docs/IMG/VID.png)
 
