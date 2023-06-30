@@ -23,5 +23,5 @@
 
 **Example: "2_576w" zeroscope**
 
-!["2_576w" zeroscope](docs/"2_576w" zeroscope.gif)
+![2_576w zeroscope](docs/"2_576w" zeroscope.gif)
 
